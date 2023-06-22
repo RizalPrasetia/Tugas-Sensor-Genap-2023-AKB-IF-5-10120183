@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Tugas Sensor 2023 AKB IF-5 10120183</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="maps_fragment">Hello maps fragment</string>
+    <string name="profil_fragment">PROFIL SAYA</string>
+    <string name="info_fragment">Hello info fragment</string>
+
+    <string name="namaSaya">Rizal Prasetia Supriadi</string>
+    <string name="nim">10120183</string>
+    <string name="kelas">IF-5</string>
+    <string name="email">rizal.10120183@mahasiswa.unikom.ac.id</string>
+    <string name="about">CariMakan adalah aplikasi yang berguna untuk mencari restoran atau tempat makan yang ada disekitar lokasi anda dengan memanfaatkan lokasi dan google maps.</string>
+    <string name="namaAplikasi">CariMakan</string>
+    <string name="tglRilis">21 Juni 2023</string>
+    <string name="versi">1.0</string>
+    <string name="api_key">AIzaSyCRhWH3Wf5mHphAqc8GDR00acm_M-d8kmk</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_restoran">RestoranActivity</string>
+</resources>

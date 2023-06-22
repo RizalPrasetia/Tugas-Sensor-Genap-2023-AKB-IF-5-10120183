@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".RestoranFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/bg_gradient2"
+        android:padding="20dp">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/isearch"
+            android:layout_width="100dp"
+            android:layout_height="130dp"
+            android:layout_centerVertical="true"
+            android:src="@drawable/logo_app"/>
+
+        <Button
+            android:id="@+id/cariRestoran"
+            android:layout_width="1000dp"
+            android:layout_height="50dp"
+            android:layout_margin="8dp"
+            android:layout_toEndOf="@+id/isearch"
+            android:layout_centerVertical="true"
+            android:text="Cari Restoran"
+            android:fontFamily="casual"
+            android:textStyle="bold"
+            android:textSize="15dp"
+            android:background="@drawable/round_btn"/>
+
+    </RelativeLayout>
+
+</FrameLayout>
